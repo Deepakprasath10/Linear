@@ -3,25 +3,26 @@
 A Flask-based web application that predicts a freelancer’s estimated earnings based on key input factors such as skills, experience, rating, number of projects, and location. Powered by Linear Regression.
 
 ## Table of Contents
-            Overview
+        Overview
 
-            Demo
+        Demo
 
-            Features
+        Features
 
-            Tech Stack
+        Tech Stack
 
-            Installation
+        Installation
 
-            Usage
+        Usage
 
-            Project Structure
+        Project Structure
 
-            Dataset
+        Dataset
 
-            Screenshots
+        Screenshots
 
-            License
+        License
+    ---
 
 ## Overview
 
@@ -45,17 +46,18 @@ freelancer-earnings-estimator/
 ```
 ## Accepts key freelancer input fields like:
 
-        Experience (years)
+    Experience (years)
 
-        Rating (1-5)
+    Rating (1-5)
 
-        Completed Projects
+    Completed Projects
 
-        Location
+    Location
 
-        Skill Category
+    Skill Category
 
-        Uses a preprocessed dataset for accurate results
+    Uses a preprocessed dataset for accurate results
+    ---
 
 ## Tech Stack
         Technology	Use
