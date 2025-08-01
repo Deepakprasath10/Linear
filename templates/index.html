@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Freelancer Earnings Estimator</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Estimate Freelancer Earnings</h2>
+        <form action="/predict" method="post">
+            <label>Experience Level:</label>
+            <select name="experience" required>
+                <option>Beginner</option>
+                <option>Intermediate</option>
+                <option>Expert</option>
+            </select>
+
+            <label>Number of Reviews:</label>
+            <input type="number" name="reviews" required>
+
+            <label>Rating (0–5):</label>
+            <input type="number" step="0.1" name="rating" required>
+
+            <label>Category:</label>
+            <select name="category" required>
+                <option>Web Development</option>
+                <option>Graphic Design</option>
+                <option>SEO</option>
+                <option>Mobile Apps</option>
+            </select>
+
+            <label>Country:</label>
+            <select name="country" required>
+                <option>India</option>
+                <option>USA</option>
+                <option>UK</option>
+                <option>Germany</option>
+            </select>
+
+            <input type="submit" value="Estimate">
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+Experience_Level,Reviews,Rating,Category,Country,Project_Price
+Beginner,3,4.5,Web Development,India,100
+Intermediate,10,4.8,Web Development,USA,250
+Expert,25,5.0,Web Development,UK,500
+Beginner,5,4.3,Graphic Design,India,80
+Intermediate,12,4.6,Graphic Design,USA,200
+Expert,30,4.9,Graphic Design,Canada,450
+Beginner,2,4.0,Mobile Apps,India,90
+Intermediate,15,4.5,Mobile Apps,USA,220
+Expert,35,5.0,Mobile Apps,UK,480
+Beginner,4,4.1,SEO,Germany,70
+Intermediate,8,4.4,SEO,India,150
+Expert,20,4.9,SEO,USA,400
+Beginner,3,4.2,Content Writing,India,60
+Intermediate,9,4.6,Content Writing,UK,180
+Expert,22,4.8,Content Writing,Canada,350
